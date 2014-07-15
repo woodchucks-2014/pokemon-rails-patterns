@@ -8,7 +8,8 @@
 
 1.  `bundle install`
 1.  `rake db:reset`
-1.  `shotgun config.ru`
+1.  `rake db:seeds`
+1.  `rails s`
 
 ## Resources
 
