@@ -20,7 +20,7 @@ Release
 
 Views
 - Use `as:` to get routes for catch and release
-- form_for (CSRF - auth token)
+- form_for (CSRF - auth token - ADD back protect_from_forgery)
 - helpers for pokemon class names
 - partials for pokemon each
 
