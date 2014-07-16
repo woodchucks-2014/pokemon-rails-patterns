@@ -33,11 +33,12 @@ gem 'httparty'
 
 group :test do
   gem 'shoulda-matchers'
-  gem 'rack-test'
-  gem 'rspec'
+  #gem 'rack-test'
+  #gem 'rspec'
 end
 
 group :test, :development do
   gem 'factory_girl'
   gem 'faker'
+  gem 'rspec-rails'
 end
